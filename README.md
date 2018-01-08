@@ -29,4 +29,4 @@ Un truc en **gras** en *italique*
 |Bob|Marley|
 |Jean sébastien|Bach|
 
-[texte du lien](www.google.com)
+[texte du lien](https://google.com)
