@@ -17,3 +17,16 @@
 ---
 Un truc en **gras** en *italique* 
 
+```html
+<html>
+</html>
+
+```
+
+
+|Prénom|Nom|
+|---|---|
+|Bob|Marley|
+|Jean sébastien|Bach|
+
+[texte du lien](www.google.com)
